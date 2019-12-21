@@ -18,11 +18,6 @@
 <li>To view your score in the High Scores section simply click the "View High Scores" button.</li>
 
 
-
-
-
-
-
-
 </ul>
 
+[Take the Challenge!](https://EMaynard802.github.io)
